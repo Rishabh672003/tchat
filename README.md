@@ -2,9 +2,9 @@
 
 <b>TCHAT</b> or Thakur Chat (named after my college TCET, to impress my teachers), is a simple realtime web chat application developed in <b>C-H.E.N</b> stack (CSS, HTML, ExpressJS and Node JS). It uses a powerful Node library called <em>socket.io</em>. This project was for ESD-1, conducted in SEM-3.
 
-You need to install Node JS on your computer. For UNIX based systems (Linux, MACOS, BSD, Solaris), run the command 
+You need to install Node JS on your computer. For UNIX based systems (Linux, MACOS, BSD, Solaris), run the command
 
-<code>npm run dev</code> 
+<code>npm run dev</code>
 
 from the tchat directory where you have cloned this repository into. That is, if you clone it in say downloads, then
 
@@ -15,7 +15,7 @@ This will open an instance of the chat application. This application can be run 
 
 NOTE - If you are cloning this on Windows, please see that you have NodeJS installed. On Windows, get VS Code, that simplifies alot of things.
 
-<img src="tchat-ss.png">
+<img src="assets/tchat-ss.png">
 <br>
 View from other chat member's screen:
-<img src="tchat-ss2.png">
+<img src="assets/tchat-ss2.png">
